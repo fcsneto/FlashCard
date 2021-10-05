@@ -1,0 +1,25 @@
+export const romaji = [
+    {
+        romaji:"a",
+        type:"Seion",
+        hiragana:"あ",
+        katakana:"ア",
+    },
+    {
+        romaji:"kya",
+        type:"Youon",
+        hiragana:"きゃ",
+        katakana:"キャ",
+    },
+    {
+        romaji:"kka",
+        type:"Sokuon",
+        hiragana:"っか",
+        katakana:"ッカ",
+    },
+    {
+        romaji:"va",
+        type:"kana",
+        katakana:"ヴァ",
+    },
+]
